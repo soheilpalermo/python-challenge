@@ -25,11 +25,4 @@ The data files used in these projects are located in the Resources folder within
 Results
 Results of the analyses are written to text files within the analysis folder of each respective directory.
 
-Code Source
-This repository is populated with educational material and assignments developed by me as part of my learning journey in Python programming.
 
-How to Contribute
-Contributions are welcome! Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
