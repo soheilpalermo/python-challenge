@@ -19,10 +19,10 @@ In the PyBank challenge, I created a Python script for analyzing the financial r
 - PyPoll
 The PyPoll challenge focuses on a script that helps a small, rural U.S. town modernize its vote-counting process. This script analyzes election data, calculating total number of votes, vote percentages, and vote counts for each candidate, and determines the election winner based on popular vote.
 
-Data Sources
+- Data Sources
 The data files used in these projects are located in the Resources folder within each challenge's directory.
 
-Results
+- Results
 Results of the analyses are written to text files within the analysis folder of each respective directory.
 
 
