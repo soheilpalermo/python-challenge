@@ -1,12 +1,14 @@
 Python Challenge - PyBank & PyPoll
 
-Welcome to my Python Challenge repository, where I tackle two real-world problems using Python: PyBank and PyPoll. These projects are part of my efforts to apply my Python skills in a practical setting.
+Welcome to my Python Challenge repository, where I tackle two real-world problems using Python: PyBank and PyPoll. 
+These projects are part of my efforts to apply my Python skills in a practical setting.
 
 Repository Structure
 This repository contains two main directories:
 
 - PyBank: Analyses financial records
 - PyPoll: Modernises vote-counting processes
+- 
 Each directory contains:
 
 - main.py - The main Python script to run for each analysis.
